@@ -1,2 +1,2 @@
-# street
-The street platform - home to content combining street culture and technology.
+# dotstreet
+Welcome to dotstreet - a platform combining street culture and technology.
